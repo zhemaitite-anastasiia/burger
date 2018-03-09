@@ -27,12 +27,12 @@ li {
   
   h1 {
       text-align: center;
-      text-shadow: 2px 2px #ffffff;
+     color:#129277;
   }
   
   h2 {
       text-align: center;
-      text-shadow: 2px 2px #ffffff;
+      color:#129277;
   }
   
   .create-update-form {
@@ -54,7 +54,7 @@ li {
       height: 100%;
   }
   body { 
-      background-image: url(http://glimpsesofcharleston.com/wp-content/uploads/2015/02/french-fries17908686_lrg.jpg) ;
+      
       background-position: center center;
       background-repeat:  no-repeat;
       background-attachment: fixed;
